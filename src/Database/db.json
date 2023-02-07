@@ -1,0 +1,93 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "viju kumar gautam",
+      "username": "viju",
+      "email": "gh@gmail.com",
+      "phone": "676767867868",
+      "address": "jitapatti new delhi",
+      "gender": "Female"
+    },
+    {
+      "name": "Vijay kumar",
+      "address": "India",
+      "email": "vijay@gmail.com",
+      "phone": "908754678",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "name": "demo",
+      "address": "dummy address",
+      "email": "demo5@gmail.com",
+      "phone": "98989898",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "demo-1",
+      "address": "new delhi",
+      "email": "gmaildd@gmail.com",
+      "phone": "878789",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "name": "Demo3",
+      "address": "Noida india",
+      "email": "demo3@gmail.com",
+      "phone": "08750480081",
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "name": "Demo2",
+      "address": "tesing",
+      "email": "demo2@gmail.com",
+      "phone": "6576786",
+      "gender": "Male",
+      "id": 6
+    },
+    {
+      "name": "John Jsp",
+      "address": "hggfh",
+      "email": "aryan@gmail.com",
+      "phone": "1234567890",
+      "gender": "Male",
+      "id": 7
+    },
+    {
+      "name": "Ankur",
+      "address": "India",
+      "email": "ank@gmail.com",
+      "phone": "87878797",
+      "gender": "female",
+      "id": 8
+    },
+    {
+      "name": "Natash",
+      "address": "India",
+      "email": "vij@gmail.com",
+      "phone": "8750480081",
+      "gender": "female",
+      "id": 9
+    },
+    {
+      "name": "Rubika",
+      "address": "Mumbai India",
+      "email": "rubi@gmail.com",
+      "phone": "767565567",
+      "gender": "Female",
+      "id": 10
+    },
+    {
+      "name": "Dummy data",
+      "address": "dummy",
+      "email": "dumm21@gmail.com",
+      "phone": "786754987",
+      "gender": "Third gender",
+      "id": 11
+    }
+  ]
+}
